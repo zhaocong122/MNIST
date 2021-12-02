@@ -1,4 +1,4 @@
 # Mnist
-##手写体识别
+手写体识别
 
-##还有一个用jupyter-notebook写的
+还有一个用jupyter-notebook写的
